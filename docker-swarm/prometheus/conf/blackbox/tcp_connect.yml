@@ -1,0 +1,4 @@
+- labels:
+    module: tcp_connect
+  targets:
+  - google.com:80
